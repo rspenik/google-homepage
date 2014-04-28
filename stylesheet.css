@@ -1,0 +1,50 @@
+#header {
+	height: 150px;
+}
+
+#center {
+	text-align: center;
+}
+
+#g_image_container {
+	height: 231px;
+	margin-top: 20px;
+}
+
+#g_image {
+	padding-top: 112px;
+	width: 269px;
+}
+
+#search_container {
+	height: 102px;
+}
+
+#search_bar {
+	border: 1px solid #ddd;
+	max-width: 572px;
+	min-width: 572px;
+	height: 35px;
+	padding: 0px 8px;
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+
+#search_bar:hover {
+	border-color: #bbb;
+}
+
+input[type=submit] {
+	background-color: #fff;
+	border: 1px solid #ddd;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 6px 6px;
+	color: #333;
+	margin: 0px 10px;
+}
+
+input[type=submit]:hover {
+	border: 1px solid #bbb;
+	color: #000;
+}
